@@ -1,4 +1,3 @@
-
 /*
  * Controlling a RGB Led with a Potentiometer (Digital)
  * 
